@@ -1,6 +1,6 @@
 {
   "name": "cpf-prompt",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "CPF prompt with validation",
   "main": "index.js",
   "repository": "https://github.com/bukinoshita/cpf-prompt.git",
@@ -9,7 +9,13 @@
   "scripts": {
     "test": "xo --quiet"
   },
-  "keywords": ["cpf", "brasil", "validation", "validate", "cli"],
+  "keywords": [
+    "cpf",
+    "brasil",
+    "validation",
+    "validate",
+    "cli"
+  ],
   "dependencies": {
     "ansi-escapes": "^2.0.0",
     "ansi-regex": "^3.0.0",
@@ -24,7 +30,9 @@
     "xo": "^0.18.2"
   },
   "xo": {
-    "extends": ["prettier"],
+    "extends": [
+      "prettier"
+    ],
     "rules": {
       "unicorn/no-process-exit": 0
     }
