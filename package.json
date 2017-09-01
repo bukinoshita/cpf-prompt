@@ -9,6 +9,7 @@
   "scripts": {
     "test": "xo --quiet"
   },
+  "keywords": ["cpf", "brasil", "validation", "validate", "cli"],
   "dependencies": {
     "ansi-escapes": "^2.0.0",
     "ansi-regex": "^3.0.0",
@@ -23,9 +24,7 @@
     "xo": "^0.18.2"
   },
   "xo": {
-    "extends": [
-      "prettier"
-    ],
+    "extends": ["prettier"],
     "rules": {
       "unicorn/no-process-exit": 0
     }
