@@ -22,7 +22,7 @@
     "chalk": "^2.1.0",
     "figures": "^2.0.0",
     "iscpf": "^1.0.6",
-    "ora": "^1.3.0",
+    "ora": "^4.0.0",
     "strip-ansi": "^5.0.0"
   },
   "devDependencies": {
