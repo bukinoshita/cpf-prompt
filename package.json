@@ -19,7 +19,7 @@
   "dependencies": {
     "ansi-escapes": "^4.0.0",
     "ansi-regex": "^5.0.0",
-    "chalk": "^3.0.0",
+    "chalk": "^4.0.0",
     "figures": "^3.0.0",
     "iscpf": "^1.0.6",
     "ora": "^4.0.0",
